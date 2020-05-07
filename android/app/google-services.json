@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "59824742050",
+    "firebase_url": "https://ztbl-mobile-5e976.firebaseio.com",
+    "project_id": "ztbl-mobile-5e976",
+    "storage_bucket": "ztbl-mobile-5e976.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59824742050:android:1328a5081abba236d141fb",
+        "android_client_info": {
+          "package_name": "com.ztbl.ztblmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59824742050-2rtgsdrpkl0ulv8nue8rdbcc6ci8e45f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX9L_CumTRHIAWNG52SwAq9rNSGDDMkHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59824742050-2rtgsdrpkl0ulv8nue8rdbcc6ci8e45f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "59824742050-tukdvavrdii6pfudkl9iue9421aea78e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ztbl.ztblmobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

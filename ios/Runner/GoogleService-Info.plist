@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>59824742050-tukdvavrdii6pfudkl9iue9421aea78e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.59824742050-tukdvavrdii6pfudkl9iue9421aea78e</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC79HR2H5i9iZYW9PnT6LDzAaMC88dtQ00</string>
+	<key>GCM_SENDER_ID</key>
+	<string>59824742050</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ztbl.ztblmobile</string>
+	<key>PROJECT_ID</key>
+	<string>ztbl-mobile-5e976</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ztbl-mobile-5e976.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:59824742050:ios:ab660f3293ad3a1ad141fb</string>
+	<key>DATABASE_URL</key>
+	<string>https://ztbl-mobile-5e976.firebaseio.com</string>
+</dict>
+</plist>
